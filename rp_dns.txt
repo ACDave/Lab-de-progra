@@ -1,0 +1,509 @@
+
+Configuraci¢n IP de Windows
+
+    business.bing.com
+    ----------------------------------------
+    Nombre de registro  . : business.bing.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 42
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : business-bing-com.b-0005.b-msedge.net
+
+
+    Nombre de registro  . : business-bing-com.b-0005.b-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 42
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : b-0005.b-msedge.net
+
+
+    Nombre de registro  . : b-0005.b-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 42
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.6.158
+
+
+    array511.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array511.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1243
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.184.213.21
+
+
+    www.bing.com
+    ----------------------------------------
+    Nombre de registro  . : www.bing.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Nombre de registro  . : a-0001.a-afdentry.net.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.200
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.21.200
+
+
+    platform.bing.com
+    ----------------------------------------
+    Nombre de registro  . : platform.bing.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 5
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : platform-bing-com.a-0001.a-msedge.net
+
+
+    Nombre de registro  . : platform-bing-com.a-0001.a-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 5
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 5
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:c11::200
+
+
+    platform.bing.com
+    ----------------------------------------
+    Nombre de registro  . : platform.bing.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : platform-bing-com.a-0001.a-msedge.net
+
+
+    Nombre de registro  . : platform-bing-com.a-0001.a-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.21.200
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.200
+
+
+    wpad.domain.name
+    ----------------------------------------
+    Nombre de registro  . : wpad.domain.name
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 891
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.38.111.1
+
+
+    cdn.sstatic.net
+    ----------------------------------------
+    Nombre de registro  . : cdn.sstatic.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 593
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.1.69
+
+
+    Nombre de registro  . : cdn.sstatic.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 593
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.193.69
+
+
+    Nombre de registro  . : cdn.sstatic.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 593
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.129.69
+
+
+    Nombre de registro  . : cdn.sstatic.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 593
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.65.69
+
+
+    arc.msn.com
+    ----------------------------------------
+    Nombre de registro  . : arc.msn.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 165
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : arc.msn.com.nsatc.net
+
+
+    Nombre de registro  . : arc.msn.com.nsatc.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 165
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.184.206.73
+
+
+    array502.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array502.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1383
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.179.216.235
+
+
+    www.google.com.mx
+    ----------------------------------------
+    Nombre de registro  . : www.google.com.mx
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 66
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80a::2003
+
+
+    www.google.com.mx
+    ----------------------------------------
+    Nombre de registro  . : www.google.com.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 89
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.3
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 963
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 963
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    darkreader.org
+    ----------------------------------------
+    Nombre de registro  . : darkreader.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2369
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.153
+
+
+    Nombre de registro  . : darkreader.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2369
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.153
+
+
+    Nombre de registro  . : darkreader.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2369
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.153
+
+
+    Nombre de registro  . : darkreader.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2369
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.153
+
+
+    wpad
+    ----------------------------------------
+    Nombre de registro  . : wpad.domain.name
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 927
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.38.111.1
+
+
+    api.github.com
+    ----------------------------------------
+    Nombre de registro  . : api.github.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 140.82.113.6
+
+
+    array505.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array505.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1401
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.184.216.226
+
+
+    fp-afd.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-afd.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-afd.afd.azureedge.net
+
+
+    Nombre de registro  . : fp-afd.afd.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : afd.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : afd.t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : t-0001.t-msedge.net
+
+
+    Nombre de registro  . : t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : Edge-Prod-SN1r3.ctrl.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : Edge-Prod-SN1r3.ctrl.t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : standard.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : standard.t-0001.t-msedge.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:bdf::10
+
+
+    fp-afd.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-afd.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-afd.afd.azureedge.net
+
+
+    Nombre de registro  . : fp-afd.afd.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : afd.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : afd.t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : t-0001.t-msedge.net
+
+
+    Nombre de registro  . : t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : Edge-Prod-SN1r3.ctrl.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : Edge-Prod-SN1r3.ctrl.t-0001.t-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : standard.t-0001.t-msedge.net
+
+
+    Nombre de registro  . : standard.t-0001.t-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.246.10
+
+
+    bam.nr-data.net
+    ----------------------------------------
+    Nombre de registro  . : bam.nr-data.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 34506
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.242.19
+
+
+    Nombre de registro  . : bam.nr-data.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 34506
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.242.18
+
+
+    Nombre de registro  . : bam.nr-data.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 34506
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.242.21
+
+
+    Nombre de registro  . : bam.nr-data.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 34506
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.242.20
+
+
+    darkreader.github.io
+    ----------------------------------------
+    Nombre de registro  . : darkreader.github.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2030
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.153
+
+
+    Nombre de registro  . : darkreader.github.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2030
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.153
+
+
+    Nombre de registro  . : darkreader.github.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2030
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.153
+
+
+    Nombre de registro  . : darkreader.github.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2030
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.153
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 815
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 815
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 815
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 815
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
