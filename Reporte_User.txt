@@ -1,0 +1,5 @@
+Sat Nov 14 14:59:43 2020: Launching attachmgr v.20200525
+Sat Nov 14 15:00:04 2020: Launching environment v.20200512
+Sat Nov 14 15:00:12 2020: Launching lxss v.20200511
+Sat Nov 14 15:00:23 2020: Launching putty v.20200515
+Sat Nov 14 14:59:48 2020: Launching cmdproc v.20200515
