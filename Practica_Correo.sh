@@ -1,9 +1,9 @@
 #!/bin/bash
 sub="Prueba"
-to="davidlive00@hotmail.com"
+to="jose.hernandezsld@uanl.edu.mx"
 mess="Holis"
 from="erick.arredondocn@uanl.edu.mx"
-pass="YdnWVUD9"
+pass="---"
 name="Erick Arredondo"
 
 echo $mess | \
